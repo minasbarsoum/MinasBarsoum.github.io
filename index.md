@@ -1,5 +1,5 @@
 <p align="right">
-<button><a href="Resume.md" title="Resume">Resume</a>
+<a href="Resume.md" title="Resume">Resume</a>
 </p>
 
 
