@@ -1,5 +1,5 @@
 <p align="right">
-<a href="Resume.md" title="Resume">Resume</a>  
+<a href="Minas.Barsoum.Resume.pdf" title="Resume">Resume</a>  
 <a href="project.md" title="Project">Projects</a>
 </p>  
 
