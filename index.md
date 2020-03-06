@@ -1,5 +1,6 @@
 <p align="right">
 <a href="Resume.md" title="Resume">Resume</a>
+</p>  
 <a href="project.md" title="Project">Projects</a>
 
 
