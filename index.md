@@ -1,3 +1,7 @@
+header {
+  display: none;
+}
+
 <p align="right">
 <a href="Minas.Barsoum.Resume.pdf" title="Resume">Resume</a>  
 <a href="project.md" title="Project">Projects</a>
