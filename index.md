@@ -10,13 +10,6 @@
  
 
 
-
-
-
-
-
-
- 
 <center><img src="https://user-images.githubusercontent.com/60366288/76112912-c3106f00-5fa8-11ea-9b1f-be5811854359.JPG" width="200"></center>
 
 <div class="bio">
@@ -30,6 +23,6 @@
 
 
 
-<right><a href=https://github.com/minasbarsoum><img id="im" src="https://user-images.githubusercontent.com/60366288/76195284-f6741900-61b5-11ea-96ce-cec48eacc4d9.png" width="20"></a></right>
+<left><a href=https://github.com/minasbarsoum><img id="im" src="https://user-images.githubusercontent.com/60366288/76195284-f6741900-61b5-11ea-96ce-cec48eacc4d9.png" width="20"></a></left>
  
 
