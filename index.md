@@ -16,8 +16,9 @@
 <center>  Through my years of studying, I kept growing my leadership and analytic skills. </center>
 <center>  My goal is to become one of top data analyst in the US. </center>
   <footer>
+ 
       <ul class="meta inline-list">
-        <a href="http://www.linkedin.com/in/minasbarsoum" target="_blank">LinkedIn</a>
-       <a href="https://github.com/minasbarsoum" target="_blank">Github</a>
+        <a href="http://www.linkedin.com/in/minasbarsoum" target="_blank">LinkedIn</a> <a href="https://github.com/minasbarsoum" target="_blank">Github</a>
+       
       </ul>
     </footer>
