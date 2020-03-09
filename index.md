@@ -25,4 +25,5 @@
 
 <p align="right"><a href=https://github.com/minasbarsoum><img id="im" src="https://user-images.githubusercontent.com/60366288/76195284-f6741900-61b5-11ea-96ce-cec48eacc4d9.png" width="20"></a>
  
-
+https://user-images.githubusercontent.com/60366288/76196166-bd3ca880-61b7-11ea-920e-4aaefe322cfe.png)
+<p align="right"><a href=http://www.linkedin.com/in/minasbarsoum><img id="im" src="https://user-images.githubusercontent.com/60366288/76196166-bd3ca880-61b7-11ea-920e-4aaefe322cfe.png" width="20"></a>
