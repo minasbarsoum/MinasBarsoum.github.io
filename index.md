@@ -4,7 +4,7 @@
  <button color="red"> <a href="Minas.Barsoum.Resume.pdf" title="Resume">Resume</a>  </button>
  <button> <a  href="project.md" title="Project">Projects </a>  </button>
  <button> <a href="http://www.linkedin.com/in/minasbarsoum" target="_blank">LinkedIn</a> </button>
-  <button>      <a href="https://github.com/minasbarsoum" target="_blank">Github</a> </button>
+
 
 
  
