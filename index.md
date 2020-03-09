@@ -8,8 +8,7 @@
  
 
  
-<center><img src="https://user-images.githubusercontent.com/60366288/76112912-c3106f00-5fa8-11ea-9b1f-be5811854359.JPG" width="200">
-</center>
+<center><img src="https://user-images.githubusercontent.com/60366288/76112912-c3106f00-5fa8-11ea-9b1f-be5811854359.JPG" width="200"></center>
 
 <h1>About me</h1> 
  <center> I am a senior student at UIUC majoring in Economics and minoring in Leadership Studies. </center>
