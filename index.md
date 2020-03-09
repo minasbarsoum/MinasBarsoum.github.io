@@ -8,17 +8,17 @@
  
 
  
-<center><img src="https://user-images.githubusercontent.com/60366288/76112912-c3106f00-5fa8-11ea-9b1f-be5811854359.JPG" width="300">
+<center><img src="https://user-images.githubusercontent.com/60366288/76112912-c3106f00-5fa8-11ea-9b1f-be5811854359.JPG" width="200">
 </center>
 
 <h1>About me</h1> 
  <center> I am a senior student at UIUC majoring in Economics and minoring in Leadership Studies. </center>
 <center>  Through my years of studying, I kept growing my leadership and analytic skills. </center>
 <center>  My goal is to become one of top data analyst in the US. </center>
-  <footer>
  
+ <footer>
       <ul class="meta inline-list">
-        <a href="http://www.linkedin.com/in/minasbarsoum" target="_blank">LinkedIn</a> <a href="https://github.com/minasbarsoum" target="_blank">Github</a>
-       
+        <a href="http://www.linkedin.com/in/minasbarsoum" target="_blank">LinkedIn</a> 
+        <a href="https://github.com/minasbarsoum" target="_blank">Github</a>
       </ul>
     </footer>
