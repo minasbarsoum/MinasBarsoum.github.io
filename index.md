@@ -8,8 +8,8 @@
 
 
  
-<a href=https://github.com/minasbarsoum><img id="im" src="https://user-images.githubusercontent.com/60366288/76195284-f6741900-61b5-11ea-96ce-cec48eacc4d9.png" width="20"></a>
-<center><img src="https://user-images.githubusercontent.com/60366288/76195284-f6741900-61b5-11ea-96ce-cec48eacc4d9.png" width="20" href="https://github.com/minasbarsoum" target="_blank"></center>
+
+
 
 
 
@@ -26,5 +26,10 @@
 <center> I am a senior student at University of Ilinois Champaign-Urbana majoring in Economics and  </center>
 <center> minoring in Leadership Studies.  Through my years of studying, I kept growing my leadership </center>
 <center> and analytic skills.  My goal is to become one of top data analyst in the US. </center>
+
+
+
+
+<right><a href=https://github.com/minasbarsoum><img id="im" src="https://user-images.githubusercontent.com/60366288/76195284-f6741900-61b5-11ea-96ce-cec48eacc4d9.png" width="20"></a></right>
  
 
