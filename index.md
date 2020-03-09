@@ -1,10 +1,10 @@
-header{
-  background-image: url(https://user-images.githubusercontent.com/60366288/76181579-98ccd600-618f-11ea-808f-798ab80b653a.jpg); 
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-}
 
+header {
+    background-image: url('https://user-images.githubusercontent.com/60366288/76181579-98ccd600-618f-11ea-808f-798ab80b653a.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
 <p align="right">
  <button color="red"> <a href="Minas.Barsoum.Resume.pdf" title="Resume">Resume</a>  </button>
  <button> <a  href="project.md" title="Project">Projects </a>  </button>
