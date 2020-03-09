@@ -1,5 +1,9 @@
 
-
+.page-header {
+  color: #ffff;
+  background-color: #A067AB;
+  background-image: linear-gradient(120deg, #5073B8, #A067AB);
+}
 
 <p align="right">
  <button color="red"> <a href="Minas.Barsoum.Resume.pdf" title="Resume">Resume</a>  </button>
