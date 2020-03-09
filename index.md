@@ -9,7 +9,7 @@
 
  
 
-<center><img src="https://user-images.githubusercontent.com/60366288/76195284-f6741900-61b5-11ea-96ce-cec48eacc4d9.png" width="20" href="https://github.com/minasbarsoum" target="_blank">  </a></center>
+<center><img src="https://user-images.githubusercontent.com/60366288/76195284-f6741900-61b5-11ea-96ce-cec48eacc4d9.png" width="20" href="https://github.com/minasbarsoum" target="_blank"></center>
 
 
 
