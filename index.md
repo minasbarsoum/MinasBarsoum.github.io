@@ -31,7 +31,7 @@
 
  
 
-[BLOG-Logo-1.png](img id="im" src=" https://user-images.githubusercontent.com/60366288/76265911-c9664b80-6233-11ea-9ba1-180a1f47c7b6.png)
+[BLOG-Logo-1.png](img id="im" src=" https://user-images.githubusercontent.com/60366288/76265911-c9664b80-6233-11ea-9ba1-180a1f47c7b6.png")
 
  
 <style>
