@@ -32,7 +32,8 @@
  
 
 
- 
+ <pre>
+    <code>
  
 <style>
 body {
@@ -42,7 +43,9 @@ body {
   background-size: 100% 100%;
 }
 </style>
- 
+
+    </code>
+</pre>
 
 
 
