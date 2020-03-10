@@ -12,7 +12,7 @@
 
 <div class="bio">
   <center><h1 style="color:dodgerblue;">Minas Barsoum</h1></center>
- <HR WIDTH="40%" ALIGN=CENTER>
+ <HR WIDTH="40%" ALIGN=CENTER markdown="1">
 
 
 
