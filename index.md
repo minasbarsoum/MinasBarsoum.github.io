@@ -12,8 +12,12 @@
 
 <div class="bio">
   <center><h1 style="color:dodgerblue;">Minas Barsoum</h1></center>
+ 
+  <pre>
+    <code>
  <HR WIDTH="40%" ALIGN=CENTER>
-
+ </code>
+</pre>
 
 
 <center> <p style="color:white;">I am a senior student at University of Ilinois Champaign-Urbana majoring in Economics and</p></center>
