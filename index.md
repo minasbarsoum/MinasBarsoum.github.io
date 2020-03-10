@@ -31,8 +31,7 @@
 
  
 
-[BLOG-Logo-1.png](img id="im" src=" https://user-images.githubusercontent.com/60366288/76265911-c9664b80-6233-11ea-9ba1-180a1f47c7b6.png")
-
+[![alt text](https://github.com/minasbarsoum)]("https://user-images.githubusercontent.com/60366288/76257454-b9dd0780-621f-11ea-94ea-2e13ecfecf39.png")
  
 <style>
 body {
